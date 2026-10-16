@@ -21,6 +21,7 @@ I run my work with a team of AI agents, each with a clear role, shared context, 
 |---|---|
 | Einstein | Chief of staff |
 | Mr. Robot | CTO / head of engineering |
+| Daredevil | Legal counsel |
 | Claude Code | Software engineer |
 | Gemini Spark | Research & daily briefing |
 | Meta Muse | Social & personal assistant |
