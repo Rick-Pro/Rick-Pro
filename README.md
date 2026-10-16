@@ -51,6 +51,10 @@ They share one context repo, sign every commit and PR, and ship through pull req
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNCA5LjggMnY5LjVIMHptMTEgLTEuNkwyNCAwdjExLjRIMTF6TTAgMTIuNmg5LjhWMjJMMCAyMC42em0xMSAwaDEzVjI0bC0xMy0xLjh6Ii8+PC9zdmc+)
+![Grok (xAI)](https://img.shields.io/badge/Grok_(xAI)-000000?logo=x&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
 
 ### 📫 Let's talk
 Founders: I run a **Founder AI Systems Audit** to turn your business into one run by AI agents.
