@@ -29,7 +29,7 @@ I run my work with a team of AI agents, each with a clear role, shared context, 
 They share one context repo, sign every commit and PR, and ship through pull requests, like any good engineering team.
 
 ### 🏆 Before
-- **Co-founder, CTO & COO, Pangian** (2017–2026): Techstars-backed global remote-talent platform with 500K+ registered users in 200+ countries
+- **Co-founder, CTO & COO, Pangian** (2017–2026): Techstars-backed global remote-talent platform with 500K+ users in 200+ countries and territories
 - Led **5 platform transformations** (WordPress → GCP → AWS ECS + Terraform; PHP/MySQL → Node/Angular/Postgres) and shipped an AI resume generator
 - Built a distributed team of **40+ people across 12+ countries**
 - **Techstars** Anywhere '20 alum & mentor · **YC** Startup School '18 · **TED AI** San Francisco · **Harvard** certificate in CS for AI
