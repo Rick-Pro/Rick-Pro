@@ -1,0 +1,19 @@
+# Secrets: env files, keys and certs (never commit; see SECURITY.md)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.jks
+*.keystore
+*.ppk
+id_rsa*
+id_ecdsa*
+id_ed25519*
+service-account*.json
