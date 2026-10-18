@@ -1,20 +1,20 @@
 ### Hi, I'm Ricardo 👋
 
-**I build AI systems that run companies.**
+**My bet: the one-person billion-dollar company is real. I'm trying to build one.**
 
-Founder, [Ethoz](https://weareethoz.com) · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
+Technical AI founder · Founder, [Ethoz](https://weareethoz.com) · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
 
-🔗 **[All my links in one place](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)** · [Personal site](https://rickglobal.vercel.app)
+🔗 **[All my links](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)** · [Personal site](https://rickglobal.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ricardouzcategui/) · [X](https://x.com/RickUzcategui)
 
-I help founders build AI agent teams, and I'm building Ethoz, an AI workspace for founders. My bet: the one-person billion-dollar company is real. I'm trying to build one, in public.
+I build AI systems that run companies. I run mine with a team of AI agents: they research, draft and check the work. I review and approve what ships. Building it in public, week by week.
 
 ---
 
 ### 🚀 Building now: Ethoz
 **Ethoz: an AI workspace for founders (in development).**
-AI agents help founders and small business owners prepare each step from idea to launch, with **human approval on every step**, in English and Spanish.
+AI agents help founders prepare each step from idea to launch, with **human approval on every step**, in English and Spanish.
 
-`Next.js 15` · `Supabase` · `Anthropic SDK` · `Cloudflare Workers` · `Tailwind v4` · `next-intl (EN/ES)`
+`Next.js` · `Supabase` · `Anthropic SDK` · `Cloudflare Workers` · `Tailwind v4` · `next-intl (EN/ES)`
 
 ### 🧭 What I'm building
 | Project | What it is | Link |
@@ -31,24 +31,15 @@ AI agents help founders and small business owners prepare each step from idea to
 | **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails, in one offline web page. | In development |
 | **Dawnly** (working name) | A personal AI briefing in two short emails a day: a morning plan and a night recap. | In development |
 
-### 🤖 My AI team
-I run my work with a team of AI agents, each with a clear role, shared context, and one rule: **nothing consequential ships without human approval.**
-
-| Agent | Role |
-|---|---|
-| Einstein | Chief of staff |
-| Mr. Robot | CTO / head of engineering |
-| Daredevil | Legal counsel |
-| Claude Code | Software engineer |
-| Gemini Spark | Research & daily briefing |
-| Meta Muse | Social & personal assistant |
-| Alfred | Red team & strategic editor |
-
-They share one context repo, sign every commit and PR, and ship through pull requests, like any good engineering team.
+### 🤖 How I work
+One human, a team of AI agents, one rule: **nothing consequential ships without my approval.**
+- Each agent has a role: chief of staff, CTO, software engineer, legal research, growth, finance (drafts only), research, design, PR.
+- They share one context repo, sign every commit and PR, and ship through pull requests, like any good engineering team.
 
 ### 🏆 Background
 - **Co-founder, Pangian (since 2017)**: co-founded a remote-work community that grew to 500K+ members in 200+ countries.
-- **Techstars** mentor · **YC** Startup School '18 · **Harvard** certificate in CS for AI
+- **Pangian team:** Special Prize, AI+ track, [2024 Straight to Wuzhen Global Internet Competition](https://www.wicinternet.org/2024-12/06/c_1051395.htm)
+- **Techstars:** Pangian joined in 2020; mentor since 2023 · **YC** Startup School '18 · **Harvard** certificate in CS for AI
 - Before that: Wells Fargo (digital fraud), Comcast IT, Chase retail ops
 
 ### 🛠️ Stack
