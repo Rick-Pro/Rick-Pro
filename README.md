@@ -4,6 +4,8 @@
 
 Founder, [Ethoz](https://weareethoz.com) · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
 
+🔗 **[All my links in one place](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)** · [Personal site](https://rickglobal.vercel.app)
+
 I help founders build AI agent teams, and I'm building Ethoz, an AI workspace for founders. My bet: the one-person billion-dollar company is real. I'm trying to build one, in public.
 
 ---
@@ -19,6 +21,7 @@ AI agents help founders and small business owners prepare each step from idea to
 |---|---|---|
 | **Ethoz** | An AI workspace for founders (in development). | [weareethoz.com](https://weareethoz.com) · [Demo](https://ethozai.vercel.app) |
 | **Founder-led AI consulting** | I help founders build AI agent teams and find where AI can take work off their plate. Starts with a fit call. | [Request a fit call](https://rickglobal.vercel.app/#audit) |
+| **Links** | All my links in one place: what I'm building, the demos, and where to find me. | [rlynxs.vercel.app](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio) |
 | **Encore AI** | Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
 | **Venue AI** | AI helpers for San Francisco bars and restaurants. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
 | **Montuno** | A live Latin music room in San Francisco. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
