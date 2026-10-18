@@ -13,7 +13,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🗓️ Now (October 2026)
 - Refreshing my site and profiles so the bet comes first.
 - Ethoz in development. Agent team ships through reviewed pull requests.
-- One example vertical, AI tools for Latin music and nightlife in San Francisco:
+- Starting vertical, AI tools for Latin music and nightlife in San Francisco:
   - 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. Live demo, example data. Early stage. [Demo](https://encoreai.vercel.app)
   - 🍸 **Venue AI** for bars: AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. [Demo](https://venueaisf.vercel.app)
   - 💃 Montuno: a membership-first supper club and dining room with live Latin music in San Francisco. In development.
@@ -22,7 +22,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 | Project | What it is | Link |
 |---|---|---|
 | **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [Demo](https://ethozai.vercel.app) |
-| **Encore AI** | Live demo, example data. Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
+| **Encore AI** | Live demo, example data. Early stage. Helps event planners and venues find and book working musicians, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
 | **Venue AI** | AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
 
 <details>
