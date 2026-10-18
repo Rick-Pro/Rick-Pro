@@ -11,6 +11,9 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🗓️ Now (October 2026)
 - Refreshing my site and profiles so the bet comes first.
 - Ethoz in development. Agent team ships through reviewed pull requests.
+- 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. [Live demo](https://encoreai.vercel.app)
+- 🍸 **Venue AI** for bars: we audit, plan and automate venue operations (QR ordering, marketing, inventory, SEO plus AEO). [Live demo](https://venueaisf.vercel.app)
+- 💃 **Montuno**, a private Latin supper club in San Francisco: referral-only, live Latin music. In development.
 
 ### 🧭 Building
 | Project | What it is | Link |
