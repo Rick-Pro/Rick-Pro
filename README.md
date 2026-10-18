@@ -14,6 +14,11 @@ A Founder OS where a team of AI agents takes founders and small business owners 
 
 `Next.js 15` · `Supabase` · `Anthropic SDK` · `Cloudflare Workers` · `Tailwind v4` · `next-intl (EN/ES)`
 
+### 🧭 What I'm building
+- **Ethoz** (started in 2026, launching soon): the Founder OS. Formation to funding, handled by AI agents, with human approval on every step.
+- **Encore AI** (early stage): a platform where event planners, venues and hosts find and book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. Starting with Latin musicians in San Francisco.
+- **Founder AI consulting**: I help founders turn their business into an operation run by AI agents, starting with a Founder AI Systems Audit. You leave with a plan, not a pitch.
+
 ### 🤖 My AI team
 I run my work with a team of AI agents, each with a clear role, shared context, and one rule: **nothing consequential ships without human approval.**
 
