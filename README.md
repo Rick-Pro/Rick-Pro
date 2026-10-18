@@ -16,7 +16,7 @@ A Founder OS where a team of AI agents takes founders and small business owners 
 
 ### 🧭 What I'm building
 - **Ethoz** (started in 2026, launching soon): the Founder OS. Formation to funding, handled by AI agents, with human approval on every step.
-- **Artist Agent** (working name, early stage): a curated, high-touch platform that matches working musicians with event planners, venues and hosts who want live music that makes the night. Starting with salsa and Latin musicians in San Francisco.
+- **Encore AI** (early stage): a matching platform where event planners, venues and hosts find and book working musicians directly, with AI agents handling the musician's promo, inquiries and logistics. Starting with Latin musicians in San Francisco.
 - **Founder AI consulting**: I help founders turn their business into an operation run by AI agents, starting with a Founder AI Systems Audit. You leave with a plan, not a pitch.
 
 ### 🤖 My AI team
