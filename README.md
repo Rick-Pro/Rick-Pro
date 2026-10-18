@@ -1,55 +1,46 @@
 ### Hi, I'm Ricardo 👋
 
-**I build AI systems that run companies.**
+**My bet: the one-person billion-dollar company is real. I'm trying to build one.**
 
-Founder, [Ethoz](https://weareethoz.com) · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
+Founder, [Ethoz](https://weareethoz.com) · agent-native founder · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
 
-🔗 **[All my links in one place](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)** · [Personal site](https://rickglobal.vercel.app)
-
-I help founders build AI agent teams, and I'm building Ethoz, an AI workspace for founders. My bet: the one-person billion-dollar company is real. I'm trying to build one, in public.
+I run my company with a team of AI agents: they research, draft and check the work, and I approve what ships. **[See what I'm building on my site →](https://rickglobal.vercel.app)**
 
 ---
 
-### 🚀 Building now: Ethoz
-**Ethoz: an AI workspace for founders (in development).**
-AI agents help founders and small business owners prepare each step from idea to launch, with **human approval on every step**, in English and Spanish.
+### 🗓️ Now (October 2026)
+- Refreshing my site and profiles so the bet comes first.
+- Ethoz in development. Agent team ships through reviewed pull requests.
 
-`Next.js 15` · `Supabase` · `Anthropic SDK` · `Cloudflare Workers` · `Tailwind v4` · `next-intl (EN/ES)`
-
-### 🧭 What I'm building
+### 🧭 Building
 | Project | What it is | Link |
 |---|---|---|
-| **Ethoz** | An AI workspace for founders (in development). | [weareethoz.com](https://weareethoz.com) · [Demo](https://ethozai.vercel.app) |
-| **Founder-led AI consulting** | I help founders build AI agent teams and find where AI can take work off their plate. Starts with a fit call. | [Request a fit call](https://rickglobal.vercel.app/#audit) |
-| **Links** | All my links in one place: what I'm building, the demos, and where to find me. | [rlynxs.vercel.app](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio) |
+| **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [Demo](https://ethozai.vercel.app) |
 | **Encore AI** | Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
 | **Venue AI** | AI helpers for San Francisco bars and restaurants. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
+
+<details>
+<summary>More experiments</summary>
+
+| Project | What it is | Link |
+|---|---|---|
 | **Montuno** | A live Latin music room in San Francisco. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
-| **Factory of Companies** | A playbook for running a company with one human CEO and an AI team. | [Demo](https://factoryco.vercel.app) |
+| **Factory of Companies** | A playbook for running a company with one human founder and an AI team. | [Demo](https://factoryco.vercel.app) |
 | **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factoryvc.vercel.app) |
-| **Chess Coach** | A personal chess teacher in one offline web page: lessons, puzzles and move explanations. | In development |
-| **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails, in one offline web page. | In development |
-| **Dawnly** (working name) | A personal AI briefing in two short emails a day: a morning plan and a night recap. | In development |
+| **Chess Coach** | A personal chess teacher in one offline web page. | In development |
+| **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails. | In development |
+| **Dawnly** (working name) | A personal AI briefing in two short emails a day. | In development |
 
-### 🤖 My AI team
-I run my work with a team of AI agents, each with a clear role, shared context, and one rule: **nothing consequential ships without human approval.**
+</details>
 
-| Agent | Role |
-|---|---|
-| Einstein | Chief of staff |
-| Mr. Robot | CTO / head of engineering |
-| Daredevil | Legal counsel |
-| Claude Code | Software engineer |
-| Gemini Spark | Research & daily briefing |
-| Meta Muse | Social & personal assistant |
-| Alfred | Red team & strategic editor |
-
-They share one context repo, sign every commit and PR, and ship through pull requests, like any good engineering team.
+### 🤖 How I work
+- **Pull requests only.** Every change from the agent team ships as a reviewed PR.
+- **Signed work.** Each agent signs its commits and PRs, so I always know who did what.
+- **Human approval.** Nothing consequential ships without my OK.
 
 ### 🏆 Background
-- **Co-founder, Pangian (since 2017)**: co-founded a remote-work community that grew to 500K+ members in 200+ countries.
-- **Techstars** mentor · **YC** Startup School '18 · **Harvard** certificate in CS for AI
-- Before that: Wells Fargo (digital fraud), Comcast IT, Chase retail ops
+- **Techstars** mentor since 2023 · **YC** Startup School '18 · **Harvard** certificate in CS for AI
+- Before startups: Wells Fargo (digital fraud), Comcast IT, Chase retail ops
 
 ### 🛠️ Stack
 **Languages & frameworks**<br>
@@ -90,7 +81,7 @@ They share one context repo, sign every commit and PR, and ship through pull req
 ### 📫 Let's talk
 <a href="https://rickglobal.vercel.app"><img src="assets/qr-site.svg" width="104" height="104" align="right" alt="QR code to rickglobal.vercel.app personal website"></a>
 
-Founders: want a team of AI agents that takes work off your plate? Start with a fit call on my site. Scan the QR to open it on your phone.
+Want a team of AI agents to take work off your plate? Start on my site. Scan the QR to open it on your phone.
 
 [![Personal site](https://img.shields.io/badge/rickglobal.vercel.app-000?logo=vercel&logoColor=white)](https://rickglobal.vercel.app)
 [![Links](https://img.shields.io/badge/All_my_links-000?logo=linktree&logoColor=white)](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)
