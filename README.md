@@ -2,22 +2,28 @@
 
 **I build AI systems that run companies.**
 
-Founder & CEO of [Ethoz](https://weareethoz.com) · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
+Founder, [Ethoz](https://weareethoz.com) · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
 
-My bet: one founder plus a team of AI agents can build and run a billion-dollar company. Ethoz is the proof, built in public.
+I help founders build AI agent teams, and I'm building Ethoz, an AI workspace for founders. My bet: the one-person billion-dollar company is real. I'm trying to build one, in public.
 
 ---
 
 ### 🚀 Building now: Ethoz
 **Ethoz: an AI workspace for founders (in development).**
-A workspace where a team of AI agents takes founders and small business owners from idea to a formed, banked, compliant, revenue-ready business, with **human approval on every step**, in English and Spanish.
+AI agents help founders and small business owners prepare each step from idea to launch, with **human approval on every step**, in English and Spanish.
 
 `Next.js 15` · `Supabase` · `Anthropic SDK` · `Cloudflare Workers` · `Tailwind v4` · `next-intl (EN/ES)`
 
 ### 🧭 What I'm building
-- **Ethoz** (started in 2026, launching soon): an AI workspace for founders. Formation to funding, handled by AI agents, with human approval on every step.
-- **Encore AI** (early stage): a platform where event planners, venues and hosts find and book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. Starting with Latin musicians in San Francisco.
-- **Founder AI consulting**: I help founders turn their business into an operation run by AI agents, starting with a Founder AI Systems Audit. You leave with a plan, not a pitch.
+| Project | What it is | Link |
+|---|---|---|
+| **Ethoz** | An AI workspace for founders (in development). | [weareethoz.com](https://weareethoz.com) · [Demo](https://ethoz-demo.vercel.app) |
+| **Founder-led AI consulting** | I help founders build AI agent teams and find where AI can take work off their plate. Starts with a fit call. | [Request a fit call](https://rickglobal.vercel.app/#audit) |
+| **Encore AI** | Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
+| **Venue AI** | AI helpers for San Francisco bars and restaurants. The owner approves every step. | [Demo](https://venue-ai-sf.vercel.app) |
+| **Montuno** | A live Latin music room in San Francisco. A concept preview, not open yet. | [Prototype, example data](https://montuno-sf.vercel.app) |
+| **Factory of Companies** | A playbook for running a company with one human CEO and an AI team. | [Demo](https://factory-of-companies.vercel.app) |
+| **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factory-ventures.vercel.app) |
 
 ### 🤖 My AI team
 I run my work with a team of AI agents, each with a clear role, shared context, and one rule: **nothing consequential ships without human approval.**
@@ -34,12 +40,10 @@ I run my work with a team of AI agents, each with a clear role, shared context, 
 
 They share one context repo, sign every commit and PR, and ship through pull requests, like any good engineering team.
 
-### 🏆 Before
-- **Co-founder, CTO & COO, Pangian** (2017–2026): Techstars-backed global remote-talent platform with 500K+ users in 200+ countries and territories
-- Led **5 platform transformations** (WordPress → GCP → AWS ECS + Terraform; PHP/MySQL → Node/Angular/Postgres) and shipped an AI resume generator
-- Built a distributed team of **40+ people across 12+ countries**
-- **Techstars** Anywhere '20 alum & mentor · **YC** Startup School '18 · **TED AI** San Francisco · **Harvard** certificate in CS for AI
-- 12 years before that at Wells Fargo (digital fraud & financial crimes), Comcast, and Chase
+### 🏆 Background
+- **Co-founder, Pangian (since 2017)**: co-founded a remote-work community that grew to 500K+ members in 200+ countries.
+- **Techstars** mentor · **YC** Startup School '18 · **Harvard** certificate in CS for AI
+- Before that: Wells Fargo (digital fraud), Comcast IT, Chase retail ops
 
 ### 🛠️ Stack
 **Languages & frameworks**<br>
@@ -78,12 +82,17 @@ They share one context repo, sign every commit and PR, and ship through pull req
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNCA5LjggMnY5LjVIMHptMTEgLTEuNkwyNCAwdjExLjRIMTF6TTAgMTIuNmg5LjhWMjJMMCAyMC42em0xMSAwaDEzVjI0bC0xMy0xLjh6Ii8+PC9zdmc+)
 
 ### 📫 Let's talk
-Founders: I run a **Founder AI Systems Audit** to turn your business into one run by AI agents.
+<a href="https://rickglobal.vercel.app"><img src="assets/qr-site.svg" width="104" height="104" align="right" alt="QR code to rickglobal.vercel.app personal website"></a>
 
-[![Founder page](https://img.shields.io/badge/Founder_page-000?logo=vercel&logoColor=white)](https://rickglobal.vercel.app)
-[![Links](https://img.shields.io/badge/Links-000?logo=vercel&logoColor=white)](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardouzcategui)
+Founders: want a team of AI agents that takes work off your plate? Start with a fit call on my site. Scan the QR to open it on your phone.
+
+[![Personal site](https://img.shields.io/badge/rickglobal.vercel.app-000?logo=vercel&logoColor=white)](https://rickglobal.vercel.app)
+[![Links](https://img.shields.io/badge/All_my_links-000?logo=linktree&logoColor=white)](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardouzcategui/)
 [![X](https://img.shields.io/badge/@RickUzcategui-000?logo=x&logoColor=white)](https://x.com/RickUzcategui)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@TheRicardo)
 [![Ethoz](https://img.shields.io/badge/weareethoz.com-4B32C3)](https://weareethoz.com)
+
+<br clear="right">
 
 <!-- Agent notes: Never put secrets or PII in code, issues, comments or logs; see SECURITY.md. (in .github/) -->
