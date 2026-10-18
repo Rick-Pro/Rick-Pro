@@ -80,7 +80,7 @@ They share one context repo, sign every commit and PR, and ship through pull req
 ### 📫 Let's talk
 Founders: I run a **Founder AI Systems Audit** to turn your business into one run by AI agents.
 
-[![Founder page](https://img.shields.io/badge/Founder_page-000?logo=vercel&logoColor=white)](https://nextjs-personal-site-xi.vercel.app)
+[![Founder page](https://img.shields.io/badge/Founder_page-000?logo=vercel&logoColor=white)](https://rickglobal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardouzcategui)
 [![X](https://img.shields.io/badge/@RickUzcategui-000?logo=x&logoColor=white)](https://x.com/RickUzcategui)
 [![Ethoz](https://img.shields.io/badge/weareethoz.com-4B32C3)](https://weareethoz.com)
