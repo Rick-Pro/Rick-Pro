@@ -8,8 +8,8 @@ I run my company with a team of AI agents: they research, draft and check the wo
 
 ---
 
-### 🗓️ Now (week of Oct 19, 2026)
-- Personal site refreshed Oct 17: the bet leads the homepage.
+### 🗓️ Now (October 2026)
+- Refreshing my site and profiles so the bet comes first.
 - Ethoz in development. Agent team ships through reviewed pull requests.
 
 ### 🧭 Building
