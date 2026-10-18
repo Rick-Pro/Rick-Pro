@@ -11,15 +11,15 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🗓️ Now (October 2026)
 - Refreshing my site and profiles so the bet comes first.
 - Ethoz in development. Agent team ships through reviewed pull requests.
-- 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. [Live demo](https://encoreai.vercel.app)
-- 🍸 **Venue AI** for bars: we audit, plan and automate venue operations (QR ordering, marketing, inventory, SEO plus AEO). [Live demo](https://venueaisf.vercel.app)
-- 💃 **Montuno**, a private Latin supper club in San Francisco: referral-only, live Latin music. In development.
+- 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. Live demo, example data. Early stage. [Demo](https://encoreai.vercel.app)
+- 🍸 **Venue AI** for bars: AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. [Demo](https://venueaisf.vercel.app)
+- 💃 Montuno: a membership-first supper club and dining room with live Latin music in San Francisco. In development.
 
 ### 🧭 Building
 | Project | What it is | Link |
 |---|---|---|
 | **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [Demo](https://ethozai.vercel.app) |
-| **Encore AI** | Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
+| **Encore AI** | Live demo, example data. Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
 | **Venue AI** | AI helpers for San Francisco bars and restaurants. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
 
 <details>
@@ -27,7 +27,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 
 | Project | What it is | Link |
 |---|---|---|
-| **Montuno** | A live Latin music room in San Francisco. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
+| **Montuno** | A membership-first supper club and dining room with live Latin music in San Francisco. In development. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
 | **Factory of Companies** | A playbook for running a company with one human founder and an AI team. | [Demo](https://factoryco.vercel.app) |
 | **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factoryvc.vercel.app) |
 | **Chess Coach** | A personal chess teacher in one offline web page. | In development |
