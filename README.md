@@ -1,6 +1,8 @@
 ### Hi, I'm Ricardo 👋
 
-**My bet: the one-person billion-dollar company is real. I'm trying to build one.**
+**I build AI systems that run companies, and I design them to scale to enterprises and whole ecosystems.**
+
+My bet: the one-person billion-dollar company is real. I'm trying to build one.
 
 Founder, [Ethoz](https://weareethoz.com) · agent-native founder · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
 
@@ -11,16 +13,17 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🗓️ Now (October 2026)
 - Refreshing my site and profiles so the bet comes first.
 - Ethoz in development. Agent team ships through reviewed pull requests.
-- 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. Live demo, example data. Early stage. [Demo](https://encoreai.vercel.app)
-- 🍸 **Venue AI** for bars: AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. [Demo](https://venueaisf.vercel.app)
-- 💃 Montuno: a membership-first supper club and dining room with live Latin music in San Francisco. In development.
+- One example vertical, AI tools for Latin music and nightlife in San Francisco:
+  - 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. Live demo, example data. Early stage. [Demo](https://encoreai.vercel.app)
+  - 🍸 **Venue AI** for bars: AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. [Demo](https://venueaisf.vercel.app)
+  - 💃 Montuno: a membership-first supper club and dining room with live Latin music in San Francisco. In development.
 
 ### 🧭 Building
 | Project | What it is | Link |
 |---|---|---|
 | **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [Demo](https://ethozai.vercel.app) |
 | **Encore AI** | Live demo, example data. Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
-| **Venue AI** | AI helpers for San Francisco bars and restaurants. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
+| **Venue AI** | AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
 
 <details>
 <summary>More experiments</summary>
