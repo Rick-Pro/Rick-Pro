@@ -17,13 +17,16 @@ AI agents help founders and small business owners prepare each step from idea to
 ### 🧭 What I'm building
 | Project | What it is | Link |
 |---|---|---|
-| **Ethoz** | An AI workspace for founders (in development). | [weareethoz.com](https://weareethoz.com) · [Demo](https://ethoz-demo.vercel.app) |
+| **Ethoz** | An AI workspace for founders (in development). | [weareethoz.com](https://weareethoz.com) · [Demo](https://ethozai.vercel.app) |
 | **Founder-led AI consulting** | I help founders build AI agent teams and find where AI can take work off their plate. Starts with a fit call. | [Request a fit call](https://rickglobal.vercel.app/#audit) |
 | **Encore AI** | Early stage. Event planners, venues and hosts book working musicians directly, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
-| **Venue AI** | AI helpers for San Francisco bars and restaurants. The owner approves every step. | [Demo](https://venue-ai-sf.vercel.app) |
-| **Montuno** | A live Latin music room in San Francisco. A concept preview, not open yet. | [Prototype, example data](https://montuno-sf.vercel.app) |
-| **Factory of Companies** | A playbook for running a company with one human CEO and an AI team. | [Demo](https://factory-of-companies.vercel.app) |
-| **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factory-ventures.vercel.app) |
+| **Venue AI** | AI helpers for San Francisco bars and restaurants. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
+| **Montuno** | A live Latin music room in San Francisco. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
+| **Factory of Companies** | A playbook for running a company with one human CEO and an AI team. | [Demo](https://factoryco.vercel.app) |
+| **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factoryvc.vercel.app) |
+| **Chess Coach** | A personal chess teacher in one offline web page: lessons, puzzles and move explanations. | In development |
+| **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails, in one offline web page. | In development |
+| **Dawnly** (working name) | A personal AI briefing in two short emails a day: a morning plan and a night recap. | In development |
 
 ### 🤖 My AI team
 I run my work with a team of AI agents, each with a clear role, shared context, and one rule: **nothing consequential ships without human approval.**
