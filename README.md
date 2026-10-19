@@ -2,7 +2,8 @@
 
 **I build AI systems that run companies, and I design them to scale to enterprises and whole ecosystems.**
 
-My bet: the one-person billion-dollar company is real. I'm trying to build one.
+The 1-person billion-dollar company is real.\
+I'm building one.
 
 Founder, [Ethoz](https://weareethoz.com) · agent-native founder · San Francisco · 🇻🇪 → 🇺🇸 · EN / ES
 
