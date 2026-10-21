@@ -14,6 +14,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🗓️ Now (October 2026)
 - Refreshing my site and profiles so the bet comes first.
 - Ethoz in development. Agent team ships through reviewed pull requests.
+- Shipped **Kestrel**, a one-tap Windows maintenance app: custom dark UI in PowerShell, a CI release pipeline and a checksum-verified installer. Repo goes public soon.
 - Starting vertical, AI tools for Latin music and nightlife in San Francisco:
   - 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. Live demo, example data. Early stage. [Demo](https://encoreai.vercel.app)
   - 🍸 **Venue AI** for bars: AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. [Demo](https://venueaisf.vercel.app)
@@ -34,6 +35,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 | **Montuno** | A membership-first supper club and dining room with live Latin music in San Francisco. In development. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
 | **Factory of Companies** | A playbook for running a company with one human founder and an AI team. | [Demo](https://factoryco.vercel.app) |
 | **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factoryvc.vercel.app) |
+| **Kestrel** | A small, fast falcon for your Windows PC. One-tap maintenance in a single exe: dark custom UI, tooltips with the exact command each task runs, checksummed releases built by GitHub Actions, in-app update check. v1.0, repo going public soon. | Coming soon |
 | **Chess Coach** | A personal chess teacher in one offline web page. | In development |
 | **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails. | In development |
 | **Dawnly** (working name) | A personal AI briefing in two short emails a day. | In development |
@@ -59,6 +61,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
 **Data**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
