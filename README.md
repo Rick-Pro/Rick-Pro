@@ -102,4 +102,216 @@ Want a team of AI agents to take work off your plate? Start on my site. Scan the
 
 <br clear="right">
 
+### 🐧 Tips from my dual-boot life
+
+I'm a big open-source fan. Linux, mostly Debian-based, is my main system on a dual-boot machine because it is lean, fast and mine to control. I boot into Windows only when I have to, for a few apps I can't run natively on Linux, like Adobe Digital Editions for reading library e-books.
+
+When I switch, I want both sides to stay fast and trouble-free. These are the things I learned the hard way. For Windows I turned them into a small tool, **[Kestrel](https://github.com/Rick-Pro/Kestrel)**, a one-tap Windows maintenance app (repo going public soon). Its Tips page holds the full Windows list below, with links to sources.
+
+> Read what a command does before you run it. These work for me; your setup may differ. Back up first.
+
+#### Linux tips (Debian, Ubuntu and friends)
+
+<details open>
+<summary><b>Fast and lean</b></summary>
+
+- **See what slows your boot.** `systemd-analyze blame` and `systemd-analyze critical-chain` show the slow parts. Turn off startup apps you don't need.
+- **Turn off services you never use.** List them with `systemctl list-unit-files --state=enabled`, then `sudo systemctl disable --now <name>`. Only if you know what it does.
+- **Keep packages tidy.** `sudo apt autoremove --purge` and `sudo apt clean` free space.
+- **Cap the log size.** `sudo journalctl --vacuum-time=14d` keeps two weeks of logs.
+- **Check weekly SSD trim.** `systemctl status fstrim.timer` should show it enabled.
+- **Tune swap.** On low RAM, `sudo apt install zram-tools`. With plenty of RAM, a lower `vm.swappiness` (for example 10) keeps apps in memory.
+- **Find the hogs.** `htop` or `btop` for CPU and memory, `ncdu /` for disk space.
+- **Clean up Flatpak.** `flatpak uninstall --unused` removes old runtimes.
+- **Update firmware.** `fwupdmgr refresh` then `fwupdmgr get-updates`.
+- **Pick a light desktop on old hardware.** Xfce or LXQt use far less than a heavy desktop.
+
+</details>
+
+<details>
+<summary><b>Battery</b></summary>
+
+- **Install TLP.** `sudo apt install tlp` handles most laptop power tuning. Don't run it next to another power manager like power-profiles-daemon.
+- **Find power hogs.** `sudo apt install powertop`, then run `sudo powertop`.
+- **Shorten screen and sleep timers.** The screen is the biggest drain.
+
+</details>
+
+<details>
+<summary><b>Privacy and safety</b></summary>
+
+- **Opt out of Ubuntu reports.** On Ubuntu-based systems run `ubuntu-report send no` and remove `popularity-contest` if it is installed. Debian only reports if you opted in.
+- **Turn on the firewall.** `sudo apt install ufw` then `sudo ufw enable`.
+- **Get security updates automatically.** `sudo dpkg-reconfigure -plow unattended-upgrades`.
+- **Use a blocker in your browser.** uBlock Origin and EFF's Privacy Badger are open source.
+- **Encrypt the disk at install.** Full-disk encryption (LUKS) is a checkbox during setup and hard to add later.
+- **Snapshot before big changes.** `sudo apt install timeshift` lets you roll the system back.
+
+</details>
+
+<details open>
+<summary><b>Dual boot (Linux side)</b></summary>
+
+- **Fix the clock once.** Linux keeps the hardware clock in UTC and Windows expects local time. Make Windows use UTC (a registry setting called `RealTimeIsUniversal`), or tell Linux to use local time with `timedatectl set-local-rtc 1 --adjust-system-clock`. Do one, not both. Check with `timedatectl`.
+- **Windows missing from the boot menu.** Install `os-prober`, set `GRUB_DISABLE_OS_PROBER=false` in `/etc/default/grub`, then run `sudo update-grub`.
+- **Windows drive "in use" or read-only.** Windows Fast Startup leaves it half-saved. Turn Fast Startup off in Windows, and restart (don't hibernate) when switching.
+- **Linux vanished after a big Windows update.** Windows can move itself first in the boot order. Pick Linux from your firmware boot menu, then repair with `sudo grub-install` and `sudo update-grub`, or reorder with `efibootmgr`.
+- **Never format Windows partitions you don't understand,** and resize Linux partitions from Linux.
+- **Share files on a separate partition.** Use exFAT or NTFS for a shared drive instead of writing to the other system's drive.
+- **Keep a live USB** for both systems.
+
+</details>
+
+#### Windows tips (the full list from Kestrel)
+
+<details>
+<summary><b>Quick wins</b> (5)</summary>
+
+- **Restart your PC once a week.** A restart clears stuck apps and finishes pending updates.
+- **Turn off apps that start with Windows.** Fewer apps at sign-in means a faster start and more free memory.
+- **Free up space with Storage Sense.** Windows can delete temp files and empty the Recycle Bin for you.
+- **Install Windows updates.** Updates fix bugs and often make things run better.
+- **Find what is slowing your PC.** Task Manager shows which app uses the most power or memory.
+
+</details>
+
+<details>
+<summary><b>First day with a new PC or fresh install</b> (15)</summary>
+
+- **Make a restore point first.** A restore point lets you roll back if a change goes wrong.
+- **Run Windows Update before anything else.** Fresh PCs ship with old software.
+- **Choose Required diagnostic data only.** On first boot, pick the minimum.
+- **Turn off advertising ID and ad tips.** Switch off the ad ID and tailored suggestions to see fewer ads aimed at you.
+- **Cut Start menu recommendations.** Turn off recommended items and promoted apps in Start so it stays quiet.
+- **Silence Windows suggestion notifications.** Open Notifications, then Additional settings.
+- **Remove apps you did not ask for.** Many new PCs have trial software and maker apps.
+- **Trim startup apps on day one.** New PCs often start many extras at sign-in.
+- **Set your default browser and apps.** Pick the browser and apps you want so Windows stops nudging you toward its own.
+- **Home or Pro: what you can change.** Home has only Required and Optional diagnostic data switches.
+- **Pro only: set diagnostic data in gpedit.** Open gpedit.msc, then Computer Configuration, Administrative Templates, Windows Components, Data Collection, Allow Diagnostic Data.
+- **Encrypt the drive: Home vs Pro.** Home can use simple device encryption on supported PCs.
+- **Local or Microsoft account.** A Microsoft account syncs and backs up but shares more.
+- **Optional: debloat tools (Win11Debloat).** A free open source script removes preinstalled apps and some ads.
+- **Still on Windows 10?.** Free security updates ended in October 2025.
+
+</details>
+
+<details>
+<summary><b>After every big update</b> (11)</summary>
+
+- **Re-check diagnostic data level.** Big updates can reset your choice.
+- **Re-check advertising ID.** Confirm the ad ID and tailored suggestions are still off after the update.
+- **Re-check default browser and apps.** Updates sometimes switch defaults back to Microsoft apps.
+- **Re-check startup apps.** New or reinstalled apps may add themselves to startup.
+- **Re-check Start recommendations.** Updates can bring back recommended items or promoted apps in Start.
+- **Re-check suggestion notifications.** Look for tips and suggestion notifications that came back after the update.
+- **Re-check camera, mic and location.** Confirm app access is still how you left it.
+- **Look for apps that came back.** Removed apps can return after a feature update.
+- **Re-check Pro policies (gpedit).** If you set Group Policy on Pro, confirm Allow Diagnostic Data still holds.
+- **Re-run your debloat tool settings.** If you used a tool like ShutUp10++, open it and re-apply your saved choices.
+- **Make a repeatable update checklist.** After each big update, spend five minutes on these tips, then restart.
+
+</details>
+
+<details>
+<summary><b>Dual boot (Windows side)</b> (10)</summary>
+
+- **Fix the clock for good.** Linux keeps the hardware clock in UTC and Windows expects local time, so the time is wrong after you switch.
+- **Or let Linux use local time.** Instead of changing Windows, run this in Linux: timedatectl set-local-rtc 1 --adjust-system-clock.
+- **Date way off? Check the battery.** If the date is off by weeks or years, not hours, the small battery on the motherboard may be dying.
+- **Turn off Fast Startup.** Fast Startup saves part of Windows to disk instead of fully shutting down.
+- **Restart, do not hibernate, to switch.** Before you boot the other system, choose Restart.
+- **Save your BitLocker recovery key.** Changing the boot order, Secure Boot or installing Linux can make Windows ask for a 48-digit recovery key.
+- **Linux gone after a Windows update?.** Big Windows updates can move Windows to the top of the boot list, so your Linux menu does not appear.
+- **Leave Linux drives alone in Windows.** Windows shows Linux drives as unformatted or unknown.
+- **Share files on a separate drive.** Keep shared files on their own exFAT or NTFS partition.
+- **Keep recovery drives for both.** Keep a Windows recovery drive and a Linux live USB.
+
+</details>
+
+<details>
+<summary><b>Speed</b> (3)</summary>
+
+- **Uninstall apps you never use.** Old apps take space and may run in the background.
+- **Check Optimize Drives is on.** Windows tidies your drive each week by default.
+- **Pick a faster power mode.** Best performance makes your PC more responsive when plugged in.
+
+</details>
+
+<details>
+<summary><b>Use fewer resources</b> (3)</summary>
+
+- **Turn off fancy visual effects.** Animations and see-through windows use a little power.
+- **See hidden startup items (Autoruns).** Microsoft's free tool lists everything that starts with Windows, even items Settings hides.
+- **Memory cleaners: small gains only.** Windows already manages memory well.
+
+</details>
+
+<details>
+<summary><b>Battery</b> (8)</summary>
+
+- **Turn on Battery saver.** Pauses background work and dims the screen when power runs low.
+- **Pick Best power efficiency mode.** This mode makes the PC use less power on battery.
+- **Shorten screen and sleep timers.** The screen uses a lot of power.
+- **Use Energy recommendations.** Windows 11 lists the settings that save the most power in one place.
+- **Find apps that drain your battery.** Settings shows which apps use the most power, even in the background.
+- **Turn off Wi-Fi and Bluetooth if unused.** Radios keep searching for signals and use power.
+- **Check your battery health report.** A free built-in report shows how much charge your battery still holds.
+- **Go easy on charging to 100 percent.** Staying full or fully empty wears lithium batteries faster.
+
+</details>
+
+<details>
+<summary><b>Privacy</b> (10)</summary>
+
+- **Turn off your advertising ID.** Windows gives your account an ad ID so apps can show ads aimed at you.
+- **Send less data to Microsoft.** Windows reports how your PC runs.
+- **Check which apps use your location.** Some apps ask for your location, camera or mic.
+- **Clear and stop activity history.** Windows can keep a list of apps, files and sites you used.
+- **Keep Recall off (new Copilot+ PCs).** Recall takes screenshots of your screen as you work.
+- **Block ads and trackers with uBlock Origin.** This free add-on stops most ads and the hidden trackers that follow you from site to site.
+- **Add Privacy Badger to your browser.** Made by the EFF, it learns which sites follow you around the web and blocks them.
+- **Encrypt your drive.** If your laptop is lost or stolen, encryption keeps strangers from reading your files.
+- **Tune many settings at once (ShutUp10++).** One free window with about 300 Windows privacy switches.
+- **Clean browser traces with BleachBit.** A free, open source cleaner that wipes browser history, cookies and temp files.
+
+</details>
+
+<details>
+<summary><b>Debloat</b> (3)</summary>
+
+- **Debloat with Win11Debloat.** A free script that removes preinstalled apps and turns off some tracking in one go.
+- **Tweak and debloat with WinUtil.** One free window from Chris Titus Tech to install apps, trim Windows and fix common problems.
+- **Customize Windows with Sophia Script.** A big PowerShell script that changes hundreds of Windows settings, including privacy and clutter.
+
+</details>
+
+<details>
+<summary><b>Make Windows feel more like Linux</b> (7)</summary>
+
+- **Install apps with one command.** winget is like apt for Windows.
+- **Snap windows and use desktops.** Like workspaces on Linux.
+- **Press Alt+Space to launch anything.** PowerToys Run is like rofi or Spotlight.
+- **Use Windows Terminal.** A modern terminal with tabs, like GNOME Terminal on Linux.
+- **Install tools without clicking installers.** Scoop is like Homebrew for Windows.
+- **Run real Linux inside Windows.** WSL gives you a real Linux (like Ubuntu) in a window, with no dual boot.
+- **Tile windows automatically.** GlazeWM is like i3 or Sway on Linux.
+
+</details>
+
+<details>
+<summary><b>Free and open-source apps</b> (7)</summary>
+
+- **Browse with Firefox.** A fast, free browser run by a nonprofit, with strong tracking protection built in.
+- **Edit documents with LibreOffice.** Open Word, Excel and PowerPoint files for free.
+- **Keep passwords in KeePassXC.** A free password vault that stays on your computer.
+- **Play any video with VLC.** Opens almost any video or audio file with no extra codec packs.
+- **Open any archive with 7-Zip.** Free tool to open and make zip, 7z, rar and more.
+- **Edit text in Notepad++.** A free, fast text editor for notes, code and config files.
+- **Find duplicate and huge files.** Czkawka scans for copies of the same file and for very large files so you can reclaim space.
+
+</details>
+
+<!-- The Windows list above mirrors the Tips page in the Kestrel app. -->
+
 <!-- Agent notes: Never put secrets or PII in code, issues, comments or logs; see SECURITY.md. (in .github/) -->
