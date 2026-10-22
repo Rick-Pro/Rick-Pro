@@ -23,22 +23,22 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🧭 Building
 | Project | What it is | Link |
 |---|---|---|
-| **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [Demo](https://ethozai.vercel.app) |
-| **Encore AI** | Live demo, example data. Early stage. Helps event planners and venues find and book working musicians, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
-| **Venue AI** | AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
+| <img src="assets/ethoz-icon.png" width="28" height="28" alt="Ethoz icon"> **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [Demo](https://ethozai.vercel.app) |
+| <img src="assets/encore-ai-icon.png" width="28" height="28" alt="Encore AI icon"> **Encore AI** | Live demo, example data. Early stage. Helps event planners and venues find and book working musicians, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
+| <img src="assets/venue-ai-icon.png" width="28" height="28" alt="Venue AI icon"> **Venue AI** | AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
 
 <details>
 <summary>More experiments</summary>
 
 | Project | What it is | Link |
 |---|---|---|
-| **Montuno** | A membership-first supper club and dining room with live Latin music in San Francisco. In development. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
-| **Factory of Companies** | A playbook for running a company with one human founder and an AI team. | [Demo](https://factoryco.vercel.app) |
-| **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factoryvc.vercel.app) |
+| <img src="assets/montuno-icon.png" width="28" height="28" alt="Montuno icon"> **Montuno** | A membership-first supper club and dining room with live Latin music in San Francisco. In development. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
+| <img src="assets/factory-of-companies-icon.png" width="28" height="28" alt="Factory of Companies icon"> **Factory of Companies** | A playbook for running a company with one human founder and an AI team. | [Demo](https://factoryco.vercel.app) |
+| <img src="assets/factory-ventures-icon.png" width="28" height="28" alt="Factory Ventures icon"> **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factoryvc.vercel.app) |
 | <img src="assets/kestrel-icon.png" width="28" height="28" alt="Kestrel icon"> **Kestrel** | A small, fast falcon for your Windows PC. One-tap maintenance in a single exe: dark custom UI, tooltips with the exact command each task runs, checksummed releases built by GitHub Actions, in-app update check. v1.0, repo going public soon. | [GitHub](https://github.com/Rick-Pro/Kestrel) |
-| **Chess Coach** | A personal chess teacher in one offline web page. | In development |
-| **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails. | In development |
-| **Dawnly** (working name) | A personal AI briefing in two short emails a day. | In development |
+| <img src="assets/chess-coach-icon.png" width="28" height="28" alt="Chess Coach icon"> **Chess Coach** | A personal chess teacher in one offline web page. | In development |
+| <img src="assets/campfire-cards-icon.png" width="28" height="28" alt="Campfire Cards icon"> **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails. | In development |
+| <img src="assets/dawnly-icon.png" width="28" height="28" alt="Dawnly icon"> **Dawnly** (working name) | A personal AI briefing in two short emails a day. | In development |
 
 </details>
 
