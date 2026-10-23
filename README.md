@@ -39,6 +39,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 | <img src="assets/chess-coach-icon.png" width="28" height="28" alt="Chess Coach icon"> **Chess Coach** | A personal chess teacher in one offline web page. | In development |
 | <img src="assets/campfire-cards-icon.png" width="28" height="28" alt="Campfire Cards icon"> **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails. | In development |
 | <img src="assets/dawnly-icon.png" width="28" height="28" alt="Dawnly icon"> **Dawnly** (working name) | A personal AI briefing in two short emails a day. | In development |
+| **Y Batch** | A free pocket companion for writing and practicing a YC application. Built with AI coding agents. Not affiliated with or endorsed by Y Combinator. | [Try it](https://ybatch.vercel.app) |
 
 </details>
 
