@@ -23,7 +23,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🧭 Building
 | Project | What it is | Link |
 |---|---|---|
-| <img src="assets/ethoz-icon.png" width="28" height="28" alt="Ethoz icon"> **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [Demo](https://ethozai.vercel.app) |
+| <img src="assets/ethoz-icon.png" width="28" height="28" alt="Ethoz icon"> **Ethoz** | Ethoz: an AI workspace for founders (in development). AI agents help founders prepare each step from idea to launch, with human approval on every step, in English and Spanish. | [weareethoz.com](https://weareethoz.com) |
 | <img src="assets/encore-ai-icon.png" width="28" height="28" alt="Encore AI icon"> **Encore AI** | Live demo, example data. Early stage. Helps event planners and venues find and book working musicians, with an AI crew helping musicians with promo, inquiries and logistics. | [Demo](https://encoreai.vercel.app) |
 | <img src="assets/venue-ai-icon.png" width="28" height="28" alt="Venue AI icon"> **Venue AI** | AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. The owner approves every step. | [Demo](https://venueaisf.vercel.app) |
 
