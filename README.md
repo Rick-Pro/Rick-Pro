@@ -95,6 +95,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 Want a team of AI agents to take work off your plate? Start on my site. Scan the QR to open it on your phone.
 
 [![Personal site](https://img.shields.io/badge/rickglobal.vercel.app-000?logo=vercel&logoColor=white)](https://rickglobal.vercel.app)
+[![AI consulting](https://img.shields.io/badge/AI_consulting-000?logo=cloudflare&logoColor=white)](https://aic-consulting.pages.dev)
 [![Links](https://img.shields.io/badge/All_my_links-000?logo=linktree&logoColor=white)](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardouzcategui/)
 [![X](https://img.shields.io/badge/@RickUzcategui-000?logo=x&logoColor=white)](https://x.com/RickUzcategui)
