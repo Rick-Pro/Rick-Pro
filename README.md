@@ -96,6 +96,7 @@ Want a team of AI agents to take work off your plate? Start on my site. Scan the
 
 [![Personal site](https://img.shields.io/badge/rickglobal.vercel.app-000?logo=vercel&logoColor=white)](https://rickglobal.vercel.app)
 [![AI consulting](https://img.shields.io/badge/AI_consulting-000?logo=cloudflare&logoColor=white)](https://aic-consulting.pages.dev)
+[![Request a fit call](https://img.shields.io/badge/Request_a_fit_call-000?logo=googleforms&logoColor=white)](https://tally.so/r/6DDKEe)
 [![Links](https://img.shields.io/badge/All_my_links-000?logo=linktree&logoColor=white)](https://rlynxs.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=bio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardouzcategui/)
 [![X](https://img.shields.io/badge/@RickUzcategui-000?logo=x&logoColor=white)](https://x.com/RickUzcategui)
