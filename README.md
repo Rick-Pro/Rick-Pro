@@ -14,7 +14,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 ### 🗓️ Now (October 2026)
 - Refreshing my site and profiles so the bet comes first.
 - Ethoz in development. Agent team ships through reviewed pull requests.
-- Shipped **Kestrel**, a one-tap Windows maintenance app: custom dark UI in PowerShell, a CI release pipeline and a checksum-verified installer. Repo goes public soon. [GitHub](https://github.com/Rick-Pro/Kestrel)
+- Shipped **Kestrel**. Kestrel is a small, fast maintenance app for Linux, Android, and Windows. [Linux](https://github.com/Rick-Pro/kestrel-linux) · [Android](https://github.com/Rick-Pro/kestrel-android) · [Windows](https://github.com/Rick-Pro/Kestrel)
 - Starting vertical, AI tools for Latin music and nightlife in San Francisco:
   - 🎺 **Encore AI** for musicians: an AI crew for promo, inquiries and logistics. Live demo, example data. Early stage. [Demo](https://encoreai.vercel.app)
   - 🍸 **Venue AI** for bars: AI tools that help venues audit, plan and automate operations: QR ordering, marketing, inventory, SEO and AEO. Live demo, example data. [Demo](https://venueaisf.vercel.app)
@@ -35,7 +35,7 @@ I run my company with a team of AI agents: they research, draft and check the wo
 | <img src="assets/montuno-icon.png" width="28" height="28" alt="Montuno icon"> **Montuno** | A membership-first supper club and dining room with live Latin music in San Francisco. In development. A concept preview, not open yet. | [Prototype, example data](https://montunosf.vercel.app) |
 | <img src="assets/factory-of-companies-icon.png" width="28" height="28" alt="Factory of Companies icon"> **Factory of Companies** | A playbook for running a company with one human founder and an AI team. | [Demo](https://factoryco.vercel.app) |
 | <img src="assets/factory-ventures-icon.png" width="28" height="28" alt="Factory Ventures icon"> **Factory Ventures** | Ready-made software companies with brand, code and docs. The demo uses fictional listings. | [Demo](https://factoryvc.vercel.app) |
-| <img src="assets/kestrel-icon.png" width="28" height="28" alt="Kestrel icon"> **Kestrel** | A small, fast falcon for your Windows PC. One-tap maintenance in a single exe: dark custom UI, tooltips with the exact command each task runs, checksummed releases built by GitHub Actions, in-app update check. v1.0, repo going public soon. | [GitHub](https://github.com/Rick-Pro/Kestrel) |
+| <img src="assets/kestrel-icon.png" width="28" height="28" alt="Kestrel icon"> **Kestrel** | Kestrel is a small, fast maintenance app for Linux, Android, and Windows. | [Linux](https://github.com/Rick-Pro/kestrel-linux) · [Android](https://github.com/Rick-Pro/kestrel-android) · [Windows](https://github.com/Rick-Pro/Kestrel) |
 | <img src="assets/chess-coach-icon.png" width="28" height="28" alt="Chess Coach icon"> **Chess Coach** | A personal chess teacher in one offline web page. | In development |
 | <img src="assets/campfire-cards-icon.png" width="28" height="28" alt="Campfire Cards icon"> **Campfire Cards** | A pocket deck of storytelling prompts for pitches, posts and emails. | In development |
 | <img src="assets/dawnly-icon.png" width="28" height="28" alt="Dawnly icon"> **Dawnly** (working name) | A personal AI briefing in two short emails a day. | In development |
@@ -108,7 +108,7 @@ Want a team of AI agents to take work off your plate? Start on my site. Scan the
 
 I'm a big open-source fan. Linux, mostly Debian-based, is my main system on a dual-boot machine because it is lean, fast and mine to control. I boot into Windows only when I have to, for a few apps I can't run natively on Linux, like Adobe Digital Editions for reading library e-books.
 
-When I switch, I want both sides to stay fast and trouble-free. These are the things I learned the hard way. For Windows I turned them into a small tool, **[Kestrel](https://github.com/Rick-Pro/Kestrel)**, a one-tap Windows maintenance app (repo going public soon). Its Tips page holds the full Windows list below, with links to sources.
+When I switch, I want both sides to stay fast and trouble-free. These are the things I learned the hard way. For Windows I turned them into a small tool, **Kestrel**. Kestrel is a small, fast maintenance app for Linux, Android, and Windows ([Linux](https://github.com/Rick-Pro/kestrel-linux) · [Android](https://github.com/Rick-Pro/kestrel-android) · [Windows](https://github.com/Rick-Pro/Kestrel)). Its Tips page holds the full Windows list below, with links to sources.
 
 > Read what a command does before you run it. These work for me; your setup may differ. Back up first.
 
