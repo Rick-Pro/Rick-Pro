@@ -102,6 +102,7 @@ Want a team of AI agents to take work off your plate? Start on my site. Scan the
 [![X](https://img.shields.io/badge/@RickUzcategui-000?logo=x&logoColor=white)](https://x.com/RickUzcategui)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@TheRicardo)
 [![Ethoz](https://img.shields.io/badge/weareethoz.com-4B32C3)](https://weareethoz.com)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ricardouzcategui)
 
 <br clear="right">
 
@@ -314,6 +315,11 @@ When I switch, I want both sides to stay fast and trouble-free. These are the th
 - **Find duplicate and huge files.** Czkawka scans for copies of the same file and for very large files so you can reclaim space.
 
 </details>
+
+---
+
+### ☕ Support my open source work
+If something here saved you time, you can [buy me a coffee](https://buymeacoffee.com/ricardouzcategui) or [leave a tip with Stripe](https://buy.stripe.com/6oUbJ05fZ39HcVwfRX9IQ00). Thank you!
 
 <!-- The Windows list above mirrors the Tips page in the Kestrel app. -->
 
